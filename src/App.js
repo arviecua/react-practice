@@ -6,10 +6,7 @@ import Footer from './components/Footer.js';
 const App = () => {
   return <>
             <Nav />
-            <main>
-              This is the main div
-            </main>
-            <Footer />
+            
         </>;
 }
 
